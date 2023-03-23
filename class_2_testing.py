@@ -8,6 +8,7 @@ This is a temporary script file.
 print("hello world!")
 
 x = 10
-print(x*3)
+print((x*3)+5)
+
 
 
